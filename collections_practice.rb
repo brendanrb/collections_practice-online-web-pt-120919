@@ -40,7 +40,7 @@ end
 
 def add_s(array)
   array.map do |word|
-    if array[2]== word
+    if array[1]== word
       word
       
     else
